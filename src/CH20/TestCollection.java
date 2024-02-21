@@ -45,5 +45,23 @@ public class TestCollection {
         System.out.print("A list of cities in collection3 after adding collection 2: ");
         System.out.println(collection3);
 
+        ArrayList<String> collection4 = (ArrayList<String>)(collection1.clone());
+        System.out.print("A list of cities in collection3 after clone collection 1: ");
+        System.out.println(collection4);
+
+        collection4.retainAll(collection2); // Reads the elements in two list. AUB
+        System.out.print("A list of cities in collection1 and collection 2: ");
+        System.out.println(collection4);
+
+        ArrayList<String> collection5 = (ArrayList<String>)(collection1.clone());
+        System.out.print("A list of cities in collection3 after clone collection 1: ");
+        System.out.println(collection5);
+
+        collection5.removeAll(collection2); // Reads the elements in two list. AUB
+        System.out.print("A list of cities in collection1, but not in collection 2: ");
+        System.out.println(collection5);
+
+
+
     }
 }
