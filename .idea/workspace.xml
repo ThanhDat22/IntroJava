@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15547888-1f02-44fb-8b12-a77f11b312d9" name="Changes" comment="Set up">
-      <change afterPath="$PROJECT_DIR$/src/CH20/TestArrayAndLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/TestCircleRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH20/GeometricObjectComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH20/GeometricObjectComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH20/TestComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH20/TestComparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
