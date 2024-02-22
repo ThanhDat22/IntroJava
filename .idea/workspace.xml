@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15547888-1f02-44fb-8b12-a77f11b312d9" name="Changes" comment="Set up">
-      <change afterPath="$PROJECT_DIR$/src/CH20/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CH20/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CH20/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CH20/TestCircleRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH14/MyJavaFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/MultipleBounceBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/SortStringIgnoreCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH20/GeometricObjectComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH20/GeometricObjectComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH20/TestComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH20/TestComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH20/SortStringByLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH20/SortStringByLength.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +29,23 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2cfQjMC7bn4Hhtw1mmISgbpSLUM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
