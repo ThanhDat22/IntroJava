@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15547888-1f02-44fb-8b12-a77f11b312d9" name="Changes" comment="Set up">
-      <change afterPath="$PROJECT_DIR$/src/CH14/MyJavaFX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CH20/MultipleBounceBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CH20/SortStringIgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/displayWords/DisplayWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/displayWords/displayWords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/displayWordsinOrder/SortedStringList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/displayWordsinOrder/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evaluate_expression/EvaluateExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evaluate_expression/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH20/SortStringByLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH20/SortStringByLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH14/MyJavaFX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH20/MultipleBounceBall.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +39,35 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2cfQjMC7bn4Hhtw1mmISgbpSLUM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "D:/UMSL/WorkSpace_Java/IntelliJ_WorkSpace/IntroJava",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="CH20.StoreNumbersLL" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\UMSL\WorkSpace_Java\IntelliJ_WorkSpace\IntroJava\src\CH20\displayWordsinOrder" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -89,7 +111,18 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Set up" />
     <option name="LAST_COMMIT_MESSAGE" value="Set up" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.EmptyStackException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
