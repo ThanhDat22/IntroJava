@@ -2,6 +2,12 @@
 
 // Created by ThanhDat Nguyen (dat.nguyen2284@gmail.com) on 2024-03-02
 
+
+/* 20.1 (Display words in descending alphabetical order) Write a program that reads words
+  from a text file and displays all the words (duplicates allowed) in descending alphabetical order.
+  The words must start with a letter. The text file is passed as a command-line argument.
+*/
+
 package CH20.displayWordsinOrder;
 
 import java.io.FileInputStream;

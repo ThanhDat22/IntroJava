@@ -8,7 +8,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15547888-1f02-44fb-8b12-a77f11b312d9" name="Changes" comment="Set up">
+      <change afterPath="$PROJECT_DIR$/src/CH20/IteratorsUsingOnLinkedList/Iterable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/IteratorsUsingOnLinkedList/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/IteratorsUsingOnLinkedList/IteratorVSIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/IteratorsUsingOnLinkedList/Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH20/IteratorsUsingOnLinkedList/List_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH3/ChineseZodiac/ChineseZodiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH3/LeapYear/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH3/Lottery/Lottery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH3/QuadraticEquation/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH4/GuessingBirthdays/GuessingBirthdayMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH4/GuessingBirthdays/GuessingBirthdays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH7/Calculator/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH7/Calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CH20/displayWordsinOrder/SortedStringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH20/displayWordsinOrder/SortedStringList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evaluate_expression/EvaluateExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evaluate_expression/EvaluateExpression.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +61,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/UMSL/WorkSpace_Java/IntelliJ_WorkSpace/IntroJava&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/UMSL/WorkSpace_Java/IntelliJ_WorkSpace/IntroJavaFX&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
